@@ -7,7 +7,7 @@ let blob3 = {
   x: 80,
   y: 0,
 
-  // Visual properties
+  // Visual properties 
   r: 26, // Base radius
   points: 5, // Number of points used to draw the blob
   wobble: 15, // Edge deformation amount
