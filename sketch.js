@@ -15,7 +15,7 @@ let blob3 = {
 
   // Time values for breathing animation
   t: 0,
-  tSpeed: 0.01,
+  tSpeed: 0.75,
 
   // Physics: velocity
   vx: 0, // Horizontal velocity
