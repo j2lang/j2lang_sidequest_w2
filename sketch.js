@@ -41,6 +41,7 @@ let platforms = [];
 
 function setup() {
   createCanvas(640, 360);
+  background(0,0,255);
 
   // Define the floor height
   floorY3 = height - 36;
