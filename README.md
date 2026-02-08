@@ -1,12 +1,12 @@
 ## Project Title
 
-GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
+Side Quest Week 2: Blob Emotional Redesign
 
 ---
 
-## Authors
+## Group Number
 
-Karen Cochrane and David Han
+N/A
 
 ---
 
@@ -16,13 +16,11 @@ Adds several rectangular platforms. The blob is drawn as a noisy circle but coll
 
 ---
 
-## Learning Goals
+## Interaction In structions
 
-Learning Goals:
-
-- Convert a circular sprite to an AABB for collision
-- Implement overlap test and push-out resolution
-- Manage grounded state only when landing on top faces
+Move: A/D or <-/->
+Jump: Space/w/up
+Jump onto platforms.
 
 ---
 
@@ -34,6 +32,14 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+•	Prompted how to change my background colour; I had to sift through the many options it gave me of different colours to understand where that option in my code is.
+•	Didn’t know the RGB code for bright green, so asked Chat
+•	Verified which version I was using by asking it itself
+
+---
+
+## Reference List
+
+N/A
 
 ---
