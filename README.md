@@ -4,9 +4,9 @@ Side Quest Week 2: Blob Emotional Redesign
 
 ---
 
-## Group Number
+## Group Number/Members
 
-N/A
+Joanne Lang j2lang 21066111
 
 ---
 
